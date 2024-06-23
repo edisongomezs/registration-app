@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>TFM Automatización del Ciclo de Vida DevOps para una aplicación Web con Jenkins, Maven, Ansible, Kubernetes y Monitoreo Continuo en AWS1</h1>
+    <h1>TFM Automatizacion del Ciclo de Vida DevOps para una aplicación Web </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
