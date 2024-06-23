@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at Virtual TechBox Youtube Channel</h1>
+    <h1>TFM Automatización del Ciclo de Vida DevOps para una aplicación Web con Jenkins, Maven, Ansible, Kubernetes y Monitoreo Continuo en AWS1</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
+   <h1> Thank You, For your Attention </h1>
+   <h1> See You tomorrow with some BEERS </h1>
   
 </form>
