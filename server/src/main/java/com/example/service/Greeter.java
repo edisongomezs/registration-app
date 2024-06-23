@@ -1,4 +1,4 @@
-package com.example;
+package com.example.service;
 
 /**
  * This is a class.
